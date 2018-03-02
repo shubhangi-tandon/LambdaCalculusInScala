@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;LambdaCalcHw&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../go_workspace/src/makeup_pl" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../go_workspace/src/makeup_pl" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
